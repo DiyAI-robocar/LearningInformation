@@ -8,7 +8,7 @@
 
 - [Official wiki](http://wiki.ros.org/ROS/StartGuide)
 
-- Coutse, learning materials: [Intro to the robot operating system](https://robohub.org/ros-101-intro-to-the-robot-operating-system/)  
+- Course, learning materials: [Intro to the robot operating system](https://robohub.org/ros-101-intro-to-the-robot-operating-system/)  
 We’ll answer questions like where do I begin? How do I get started? What terminology should I brush up on? Keep an eye out for this ongoing ROS 101 blog series that will provide you with a top to bottom view of ROS that will focus on introducing basic concepts simply, cleanly and at a reasonable pace. This guide is meant as a groundwork for new users, which can then be used to jump into in-depth data at wiki.ros.org. If you are totally unfamiliar with ROS, Linux, or both, this is the place for you!
 
 #### ML/Deep learning:
