@@ -4,11 +4,12 @@ ToDo List
 Improve:
 --------
 
-- [ ] bracking
-- [ ] backword
+- [ ] braking
+- [ ] backward
 - [ ] frame resolution
 - [ ] reduce weight
-- [ ] simplyfy camera setup & image pre-processing
+- [ ] simplify camera setup
+- [ ] simplify image pre-processing
 
 Result:
 -------
